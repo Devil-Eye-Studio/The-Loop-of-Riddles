@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2727174800ab2343b656911ba262ba0, type: 3}
+  m_Name: Victim's Note 2
+  m_EditorClassIdentifier: 
+  noteTitle: Rejection of the Project
+  noteText: "They... They didn't want to sponsor my project. WHAT THE HELL?! I worked
+    so hard on this project, AND THEY JUST THREW  IT OUT... I don\u2019t know what
+    to do now... I\u2019m broken.\n"

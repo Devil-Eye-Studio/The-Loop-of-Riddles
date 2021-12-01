@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2727174800ab2343b656911ba262ba0, type: 3}
+  m_Name: Victim's Note 5
+  m_EditorClassIdentifier: 
+  noteTitle: Bugs
+  noteText: "I've seen them again! Fucking bugs! THEY COME FOR ME.\r\n\r\nThe last
+    time I crushed one of these, I saw that it was made of metal and inside it was
+    a capsule with a strange substance. A few days later I heard that the person
+    who lived on the floor above me had been murdered by the same strange murderer.\r\nI
+    decided to take a look at this strange capsule. These were nanobots.\nApparently
+    they kill a person under the guise of a disease, but the symptoms in one day
+    are greatly exacerbated and the person dies, and the nanobots themselves leave
+    the body.\r\nI started to make a cure for this disease, but I couldn't get more
+    funds because of these dummies at the bank.\r\nApparently the person who created
+    these bugs found out that I'm making a cure and sent them to kill me. \nThe cure
+    is in a state of testing and can't yet be used.\r\nI hope I have time to finish
+    the cure before the moment when I... die."

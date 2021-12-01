@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2727174800ab2343b656911ba262ba0, type: 3}
+  m_Name: Newspaper Article 2
+  m_EditorClassIdentifier: 
+  noteTitle: Newspaper Article
+  noteText: "Coalland City's Newspaper\n\nDate: November 11, 2011 \n\nThe murders
+    continue. The investigation established that the murderer is not alone, since
+    the murders are committed in several places at almost the same time. The head
+    of one of the police department commented on this situation:\r\n- \"These people
+    are clearly professionals in their thing, they don't leave any traces, this confuses
+    the work of our department. We do our best to find them.\""

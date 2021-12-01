@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2727174800ab2343b656911ba262ba0, type: 3}
+  m_Name: Document 1
+  m_EditorClassIdentifier: 
+  noteTitle: Project Report
+  noteText: "A report on Mr. Anderson's project called \"The Cure for Death\" shows
+    that investors will not be able to invest in the project due to the lack of justified
+    importance of the project. In this case, Mr. Anderson must provide arguments
+    in favor of the importance of his project, otherwise the sponsorship will not
+    be able to be approved.\n \nBank of Coalland City"

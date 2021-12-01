@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2727174800ab2343b656911ba262ba0, type: 3}
+  m_Name: Victim's Note 3
+  m_EditorClassIdentifier: 
+  noteTitle: Victim's note
+  noteText: 'How could they reject my project? It can help so many people...
+
+
+
+
+    I''ll
+    still get them to accept my project... I can''t just give up. '
