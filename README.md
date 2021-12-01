@@ -1,3 +1,4 @@
+![alt text](https://github.com/Devil-Eye-Studio/The-Loop-of-Riddles/blob/main/Assets/Images/Logo/Header%202.png)
 # The Loop of Riddles
  Source code of game: The Loop of Riddles
 ## Story
@@ -26,3 +27,14 @@ Ctrl, X - Crouch
 E - Interaction
 
 F, L - Turn On/Off flashlight
+
+
+## Installation process
+1. Download archive
+
+2. Unpack archive
+
+3. For your convenience, you can create a shortcut of the file "The Loop of Riddles.exe" on your desktop
+
+4. The game is launched via "The Loop of Riddles.exe"/shortcut
+5. Now you can play
